@@ -1,16 +1,8 @@
 {
-  "name": "instagram-downloader-api",
+  "name": "instagram-api",
   "version": "1.0.0",
-  "description": "Free Instagram Downloader API",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
   "dependencies": {
-    "express": "^4.19.2",
-    "axios": "^1.7.2",
-    "cors": "^2.8.5",
-    "cheerio": "^1.0.0-rc.12"
+    "axios": "^1.7.2"
   },
   "engines": {
     "node": "22.x"
